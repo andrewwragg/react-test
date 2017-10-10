@@ -1,0 +1,26 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewwragg/react-test.git"
+  },
+  "keywords": [
+    "react",
+    "mobx",
+    "node",
+    "app",
+    "test"
+  ],
+  "author": "andrewwragg1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewwragg/react-test/issues"
+  },
+  "homepage": "https://github.com/andrewwragg/react-test#readme"
+}
